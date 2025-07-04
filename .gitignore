@@ -1,0 +1,9 @@
+# Global ignores
+node_modules/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+# React build
+brain-tumor-ui/build/
