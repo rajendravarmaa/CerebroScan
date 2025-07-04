@@ -7,4 +7,3 @@ __pycache__/
 
 # React build
 brain-tumor-ui/build/
-backend/model/brain_tumor_class.keras
